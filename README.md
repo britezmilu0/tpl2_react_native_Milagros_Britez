@@ -20,7 +20,7 @@ Ofrece una interfaz limpia, accesible y adaptable, con soporte para modo claro/o
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/britezmilu0/tpl2_react_native_Milagros_Britez
+git clone https://github.com/britezmilu0/tpl2_react_native_Milagros_Britez.git
 cd poema-app
 
 2. Instalar dependencias 
